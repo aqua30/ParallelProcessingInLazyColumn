@@ -2,8 +2,7 @@
 Demo video to show how to make multiple parallel calls using coroutine within a list and then updating the UI state correctly for each item.
 
 ## Demo video
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UBPSZ9BggXk/0.jpg)](https://www.youtube.com/watch?v=UBPSZ9BggXk)
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/4559525/176008503-f8c46fae-9c8d-448c-8325-72f42c6c044d.png)](https://www.youtube.com/watch?v=UBPSZ9BggXk)
 
 
 ## Medium Article
